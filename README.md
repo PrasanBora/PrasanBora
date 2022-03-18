@@ -1,4 +1,5 @@
-▪🙏Namaste ,myself Prasan Bora                          ![Alt Text](https://tenor.com/view/no-hand-shake-namaste-covid19-covid-greeting-gif-16705093)
+▪🙏Namaste ,myself Prasan Bora                          ![Alt Text](![image](https://user-images.githubusercontent.com/100477554/159069528-7a9d336c-5e59-46c2-95f0-4b63dc57f52c.png)
+)
 
 ▪📚Engineering Student 
 

@@ -1,6 +1,6 @@
-                     <img align="right" width="200" height="200" src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif"> 
+  <h1>🙏 Namaste, myself Prasan Bora  </h1>                   <img align="right" width="200" height="200" src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif"> 
 
-  <h1>🙏 Namaste, myself Prasan Bora  </h1>
+  
   
 ▪📚Engineering Student 
 

@@ -1,4 +1,4 @@
-▪ <h1>🙏 **Namaste, myself Prasan Bora **   </h1>                      ![alt text](https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif)
+   <h1>🙏 Namaste, myself Prasan Bora  </h1>                      ![alt text](https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif)
 
 ▪📚Engineering Student 
 

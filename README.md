@@ -13,7 +13,7 @@
 
 ▪✨Connect with me    </h3>
   
-  [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/prasan bora)
+  [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/prasan-bora)
                  
                                      
                     

@@ -1,8 +1,8 @@
   <h1 align="left">🙏Namaste, myself Prasan Bora  </h1>            <img align="left" width="180" height="180" src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif"> 
- 
-   <h3>
 
-▪📚Engineering Student  
+   <h3>
+     
+▪📚Engineering Student , from INDIA
 
 ▪💻Intrested in Web Development
 

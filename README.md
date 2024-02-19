@@ -25,11 +25,15 @@
     
 🛠**Tech Stack**
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=F05032)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=F05032)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=F05032)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript&logoColor=F05032)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=F05032)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)

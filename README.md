@@ -11,7 +11,7 @@
 - ⚡ Fun facts : 
         ! The first rule of programming- 
           if it works, don’t touch it🤓
--! Programming is 10% writing code and 
+<br>! Programming is 10% writing code and 
           90% understanding why it’s not working😶  
 
 ✨ **Things I like** (Still Exploring 😅)

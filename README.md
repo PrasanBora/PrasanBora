@@ -5,6 +5,7 @@
 ### Hi there, I am Prasan Bora 👋
 [![Linkedin Badge](https://img.shields.io/badge/-PrasanBora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasan-bora-943293184/)](https://www.linkedin.com/in/prasan-bora-943293184/)
 [![Gmail Badge](https://img.shields.io/badge/-prasanbora23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasanbora23@gmail.com)](mailto:prasanbora23@gmail.com) 
+[![X Badge](https://img.shields.io/badge/-@its_prasan-c14438?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/its_prasan)](https://twitter.com/its_prasan) 
 
 - 🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓

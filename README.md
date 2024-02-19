@@ -9,7 +9,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)
 - ⚡ Fun facts : 
-        ! The first rule of programming- 
+<br>! The first rule of programming- 
           if it works, don’t touch it🤓
 <br>! Programming is 10% writing code and 
           90% understanding why it’s not working😶  

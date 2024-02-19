@@ -10,12 +10,12 @@
 - 🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Things I love**
-- Still Updating 😅
-- C++ 💻
+✨ **Things I like** (Still Exploring 😅)
+- Solving Problems ✔
+- Web Dev 💻
 - Coffee ☕
-- Travelling 🧭
-- Flowers 🌼
+- Music & Travelling 🎶🧭
+- Books & Flowers 📕🌼
 
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">

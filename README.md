@@ -8,7 +8,11 @@
 [![X Badge](https://img.shields.io/badge/-@its_prasan-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/its_prasan)](https://twitter.com/its_prasan) 
 
 - 🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Fun facts : 
+        ! The first rule of programming- 
+          if it works, don’t touch it🤓
+        ! Programming is 10% writing code and 
+          90% understanding why it’s not working😶  
 
 ✨ **Things I like** (Still Exploring 😅)
 - Solving Problems ✔

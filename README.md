@@ -3,8 +3,8 @@
 
 
 ### Hi there, I am Prasan Bora 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-PrasanBora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasan-bora-943293184/)](https://www.linkedin.com/in/prasan-bora-943293184/)
+[![Gmail Badge](https://img.shields.io/badge/-prasanbora23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasanbora23@gmail.com)](mailto:prasanbora23@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
@@ -18,7 +18,7 @@
 
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=PrasanBora&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**

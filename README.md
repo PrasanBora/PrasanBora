@@ -25,8 +25,8 @@
 # 📊 GitHub Stats:
 
     
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=PrasanBora&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=truee" />
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/>
+![] (https://github-readme-stats.vercel.app/api?username=PrasanBora&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     
     

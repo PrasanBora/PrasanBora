@@ -26,16 +26,7 @@
 - Music & Travelling 🎶🧭
 - Books & Flowers 📕🌼
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/><br/>
-
-
-    
-    
-🛠**Tech Stack**
+🛠Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=F05032)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=F05032)
@@ -47,9 +38,22 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=F05032)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss&logoColor=F05032)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=F05032)
+![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=Canva&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/><br/>
+
+
+    
+
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

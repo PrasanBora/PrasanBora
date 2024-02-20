@@ -26,7 +26,7 @@
 - Music & Travelling 🎶🧭
 - Books & Flowers 📕🌼
 
-🛠Tech Stack
+# 🛠Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=F05032)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=F05032)

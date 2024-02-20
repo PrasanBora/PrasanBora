@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PrasanBora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasan-bora-943293184/)](https://www.linkedin.com/in/prasan-bora-943293184/)
 [![Gmail Badge](https://img.shields.io/badge/-prasanbora23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasanbora23@gmail.com)](mailto:prasanbora23@gmail.com) 
 [![X Badge](https://img.shields.io/badge/-@its_prasan-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/its_prasan)](https://twitter.com/its_prasan) 
-
+🔭 I’m currently working on Full Stack Development and Data Structures and Algorithm<br>👯 Open to collaborate on any developing projects....<br>💬 Ask me about web dev, cpp and data structures.<br>
 - 🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)
 - ⚡ Fun facts : 
 <br>! The first rule of programming- 
@@ -25,7 +25,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=PrasanBora&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=truee" />
     </a>
-    
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     
     
 🛠**Tech Stack**

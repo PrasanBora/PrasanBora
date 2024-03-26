@@ -24,7 +24,7 @@
 - Web Dev 💻
 - Coffee ☕
 - Music & Travelling 🎶🧭
-- Books & Flowers 📕🌼
+  
 
 # 🛠Tech Stack
 

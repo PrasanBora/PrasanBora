@@ -1,4 +1,3 @@
-<img align="right" src="https://github.com/PrasanBora/PrasanBora/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 

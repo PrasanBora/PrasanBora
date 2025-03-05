@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on Full Stack Development and Data Structures and Algorithm<br>
 👯 Open to collaborate on any developing projects....<br>💬 Ask me about web dev, cpp and data structures.<br>
-🎯 Portfolio website: [Portfolio](https://prasanbora.github.io/portfolio/)<br>
+🎯 Portfolio website: [Portfolio](https://prasan-bora-portfolio.vercel.app/)<br>
 
 
 ⚡ Fun facts : 

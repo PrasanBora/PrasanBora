@@ -6,24 +6,32 @@
 [![Gmail Badge](https://img.shields.io/badge/-prasanbora23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasanbora23@gmail.com)](mailto:prasanbora23@gmail.com) 
 [![X Badge](https://img.shields.io/badge/-@its_prasan-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/its_prasan)](https://twitter.com/its_prasan) <br>
 <br>
-
-🔭 I’m currently working on Full Stack Development and Data Structures and Algorithm<br>
-👯 Open to collaborate on any developing projects....<br>💬 Ask me about web dev, cpp and data structures.<br>
+💻 I’m a Software Engineer passionate about building the best digital experiences.<br>
+🔭 Pursuing excellence in Full Stack Development and Data Structures & Algorithms to drive innovation through code.<br>
+👯 Open to collaborate on exciting development projects....<br>💬 Ask me about web dev, cpp and data structures.<br>
 🎯 Portfolio website: [Portfolio](https://prasan-bora-portfolio.vercel.app/)<br>
 
 
+
 ⚡ Fun facts : 
-<br>! The first rule of programming- 
-          if it works, don’t touch it🤓
 <br>! Programming is 10% writing code and 
           90% understanding why it’s not working😶  
 
-✨ **Things I like** (Still Exploring 😅)
-- Solving Problems ✔
-- Web Dev 💻
-- Coffee ☕
+✨ **What Keeps Me Going:** (Still Exploring 😅)
+-  Solving Real-World Problems 🧩
+-  Writing Clean & Scalable Code 💻
+- Powered by Coffee ☕
 - Music & Travelling 🎶🧭
-  
+
+<br>
+
+**🧠 Life in a Dev Loop**
+<br>
+Solve ➡️ Code ➡️ Coffee ➡️ Music ➡️ Repeat
+<br>
+Finding bugs before they find me 😄
+<br>
+ Exploring new tools, frameworks, and APIs 🛠️
 
 # 🛠Tech Stack
 

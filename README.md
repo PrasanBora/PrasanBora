@@ -71,9 +71,10 @@ Finding bugs before they find me 😄
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<p></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/><br/>
 </p>
 
 

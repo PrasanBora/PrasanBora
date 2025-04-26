@@ -56,15 +56,31 @@ Finding bugs before they find me 😄
 # 📊 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <p></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false)<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanBora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasanBora&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
-[![An image of @prasanbora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasanbora)](https://holopin.io/@prasanbora)
+
+### See My GitHub Snake in Action! 🎬🐍
+
 <div align="center">
 
 ![snake gif](https://github.com/PrasanBora/PrasanBora/blob/output/github-snake-dark.svg)
 
+
 </div>
 
+
+### My Digital Trophy Shelf 🏆💻
+
+[![An image of @prasanbora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasanbora)](https://holopin.io/@prasanbora)
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=PrasanBora&icon=10&color=6)](https://visitcount.itsvg.in)
+
+</div>
 

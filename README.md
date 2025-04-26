@@ -61,7 +61,10 @@ Finding bugs before they find me 😄
 
 
 [![An image of @prasanbora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasanbora)](https://holopin.io/@prasanbora)
+<div align="center">
 
 ![snake gif](https://github.com/PrasanBora/PrasanBora/blob/output/github-snake-dark.svg)
+
+</div>
 
 

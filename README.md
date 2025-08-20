@@ -13,9 +13,6 @@
 
 
 
-⚡ Fun facts : 
-<br>! Programming is 10% writing code and 
-          90% understanding why it’s not working😶  
 
 ✨ **What Keeps Me Going:** (Still Exploring 😅)
 -  Solving Real-World Problems 🧩

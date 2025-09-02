@@ -6,29 +6,39 @@
 [![Gmail Badge](https://img.shields.io/badge/-prasanbora23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasanbora23@gmail.com)](mailto:prasanbora23@gmail.com) 
 [![X Badge](https://img.shields.io/badge/-@its_prasan-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/its_prasan)](https://twitter.com/its_prasan) <br>
 <br>
-💻 I’m a Software Engineer passionate about building the best digital experiences.<br>
-🔭 Pursuing excellence in Full Stack Development and Data Structures & Algorithms to drive innovation through code.<br>
-👯 Open to collaborate on exciting development projects....<br>💬 Ask me about web dev, cpp and data structures.<br>
-🎯 Portfolio website: [Portfolio](https://prasan-bora-portfolio.vercel.app/)<br>
+💻 **Software Engineer** focused on building impactful digital products.  
+🔭 Skilled in **Full Stack Development**, with strong foundations in **Data Structures & Algorithms**.  
+⚡ Experienced in designing scalable, performant solutions across frontend and backend systems.  
+🤝 Open to collaborating on **high-impact projects** and contributing to open-source. <br>
+🎯 Portfolio website: [Portfolio](https://prasan-bora-portfolio.vercel.app/)
 
-
-
-
-✨ **What Keeps Me Going:** (Still Exploring 😅)
--  Solving Real-World Problems 🧩
--  Writing Clean & Scalable Code 💻
-- Powered by Coffee ☕
-- Music & Travelling 🎶🧭
 
 <br>
 
-**🧠 Life in a Dev Loop**
+## 🚀 What Drives Me  
+- Delivering **clean, scalable, maintainable code**  
+- **Problem-solving** through technology  
+- Continuous learning & adoption of new tools and frameworks  
+
+
 <br>
-Solve ➡️ Code ➡️ Coffee ➡️ Music ➡️ Repeat
+
+## 🧠 Life in a Dev Loop  
+`Solve ➡️ Build ➡️ Refine ➡️ Ship ➡️ Repeat`  
+
+- Proactive in catching bugs before they surface 🐞  
+- Continuously exploring modern **tools, frameworks & APIs** 🛠️  
+- Blending **coffee, code & creativity** ☕💡  
+
+
 <br>
-Finding bugs before they find me 😄
+
+## ✨ Closing Note  
+> _“Great engineering is not just about writing code — it’s about creating value, solving problems, and building for scale.”_  
+
+
 <br>
- Exploring new tools, frameworks, and APIs 🛠️
+
 
 # 🛠Tech Stack
 
@@ -95,4 +105,5 @@ Finding bugs before they find me 😄
   [![](https://visitcount.itsvg.in/api?id=PrasanBora&icon=10&color=6)](https://visitcount.itsvg.in)
 
 </div>
+
 

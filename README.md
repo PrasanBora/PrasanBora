@@ -10,7 +10,7 @@
 🔭 Skilled in **Full Stack Development**, with strong foundations in **Data Structures & Algorithms**.  
 ⚡ Experienced in designing scalable, performant solutions across frontend and backend systems.  
 🤝 Open to collaborating on **high-impact projects** and contributing to open-source. <br>
-🎯 Portfolio website:[1](https://portfolio3-0-mocha.vercel.app/)[2](https://prasan-bora-portfolio.vercel.app/)
+🎯 [Portfolio_1](https://portfolio3-0-mocha.vercel.app/)     [Portfolio_2](https://prasan-bora-portfolio.vercel.app/)
 
 
 <br>

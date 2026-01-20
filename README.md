@@ -112,7 +112,7 @@
 
 <div align="center">
 
-![3D Contribution Graph](https://github.com/PrasanBora/PrasanBora/blob/output/profile-3d-contrib/profile-night-green.svg)
+![3D Contribution Graph](https://github.com/PrasanBora/PrasanBora/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
